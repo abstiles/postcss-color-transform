@@ -1,3 +1,7 @@
+[![npm](https://img.shields.io/npm/v/postcss-color-transform.svg)](https://www.npmjs.com/package/postcss-color-transform)
+[![npm](https://img.shields.io/npm/dt/postcss-color-transform.svg)](https://www.npmjs.com/package/postcss-color-transform)
+[![npm](https://img.shields.io/npm/l/postcss-color-transform.svg)](https://www.npmjs.com/package/postcss-color-transform)
+
 # PostCSS Color Transform
 
 [PostCSS] plugin to perform arbitrary transformations to colors.
