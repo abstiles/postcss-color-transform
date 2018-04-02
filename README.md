@@ -6,6 +6,8 @@
 
 [PostCSS] plugin to perform arbitrary transformations to colors.
 
+[PostCSS]: https://github.com/postcss/postcss
+
 ## Usage
 
 ```js
