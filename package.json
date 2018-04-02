@@ -1,6 +1,6 @@
 {
   "name": "postcss-color-transform",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "PostCSS plugin to perform arbitrary transformations to colors.",
   "keywords": [
     "postcss",
@@ -35,7 +35,10 @@
       "jest": true
     },
     "rules": {
-      "indent": ["error", 2]
+      "indent": [
+        "error",
+        2
+      ]
     }
   },
   "jest": {
