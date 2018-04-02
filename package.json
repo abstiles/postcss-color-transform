@@ -16,7 +16,10 @@
   },
   "homepage": "https://github.com/abstiles/postcss-color-transform",
   "dependencies": {
-    "postcss": "^6.0.16"
+    "color": "^3.0.0",
+    "postcss": "^6.0.16",
+    "postcss-message-helpers": "^2.0.0",
+    "reduce-function-call": "^1.0.2"
   },
   "devDependencies": {
     "eslint": "^4.18.2",
@@ -30,6 +33,9 @@
     "extends": "eslint-config-postcss/es5",
     "env": {
       "jest": true
+    },
+    "rules": {
+      "indent": ["error", 2]
     }
   },
   "jest": {
